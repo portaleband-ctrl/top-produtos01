@@ -9,5 +9,19 @@
         "name": "Bruno Santos"
     },
     "items": [
+        {
+            "id": "https://topprodutos.eband.com.br/ola-mundo.html",
+            "url": "https://topprodutos.eband.com.br/ola-mundo.html",
+            "title": "Olá mundo",
+            "summary": "olá mundo 123",
+            "content_html": "<p>olá mundo 123</p>",
+            "author": {
+                "name": "Bruno Santos"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-01T22:27:31-03:00",
+            "date_modified": "2026-03-01T22:27:31-03:00"
+        }
     ]
 }

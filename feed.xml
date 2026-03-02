@@ -3,10 +3,30 @@
     <title>Portal EBand</title>
     <link href="https://topprodutos.eband.com.br/feed.xml" rel="self" />
     <link href="https://topprodutos.eband.com.br" />
-    <updated>1969-12-31T21:00:00-03:00</updated>
+    <updated>2026-03-01T22:27:31-03:00</updated>
     <author>
         <name>Bruno Santos</name>
     </author>
     <id>https://topprodutos.eband.com.br</id>
 
+    <entry>
+        <title>Olá mundo</title>
+        <author>
+            <name>Bruno Santos</name>
+        </author>
+        <link href="https://topprodutos.eband.com.br/ola-mundo.html"/>
+        <id>https://topprodutos.eband.com.br/ola-mundo.html</id>
+
+        <updated>2026-03-01T22:27:31-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    olá mundo 123
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>olá mundo 123</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
